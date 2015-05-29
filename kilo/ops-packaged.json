@@ -1,0 +1,83 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "good"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "good"
+     },
+     "Image service (Glance)":
+     {
+        "status": "good"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "good"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "good"
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "good",
+        "caveats":
+        [{
+         "status": "no",
+         "label": "Vendor drivers not packaged",
+         "description": "From this release, most network drivers (particularly non-open-source) are no longer packaged. Instead, they must be found from their repository on https://github.com/stackforge or https://github.com/openstack ."
+        }]
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "good"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "warning",
+        "description": "Red Hat's packages for Ceilometer are not usable with swift",
+        "bug_link": "https://bugzilla.redhat.com/show_bug.cgi?id=1214928"
+
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "good",
+     },
+     "Database service (Trove)":
+     {
+        "status": "warning",
+        "description": "On Ubuntu, /var/cache/trove is not created.",
+        "bug_link": "https://bugs.launchpad.net/ubuntu/+source/trove/+bug/1459961"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "warning",
+        "description": "Ubuntu packages run db-manage on install even when no database is configured.",
+        "bug_link": "https://bugs.launchpad.net/ubuntu/+source/sahara/+bug/1452698"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "good"
+     },
+     "Message service (Zaqar)":
+     {
+        "status": "no"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "no"
+     },
+     "DNS services (Designate)":
+     {
+        "status": "good"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "no"
+     },
+     "Shared File Systems service (Manila)":
+     {
+        "status": "beginning"
+     }
+}
