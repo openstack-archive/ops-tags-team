@@ -1,0 +1,62 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "98%"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "58%"
+     },
+     "Image service (Glance)":
+     {
+        "status": "92%"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "95%"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "90%"
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "79%"
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "83%"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "43%"
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "47%"
+     },
+     "Database service (Trove)":
+     {
+        "status": "12%"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "7%"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "9%"
+     },
+     "Message service (Zaqar)":
+     {
+        "status": "1%"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "9%"
+     },
+     "DNS service (Designate)":
+     {
+        "status": "9%"
+     }
+}
