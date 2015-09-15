@@ -1,17 +1,17 @@
 {
-     "Compute (Nova)":
+     "Compute service (Nova)":
      {
         "status": "available"
      },
-     "Object Storage (Swift)":
+     "Object Storage service (Swift)":
      {
         "status": "available"
      },
-     "Image Service (Glance)":
+     "Image service (Glance)":
      {
         "status": "available"
      },
-     "Identity (Keystone)":
+     "Identity service (Keystone)":
      {
         "status": "available"
      },
@@ -19,49 +19,49 @@
      {
         "status": "available"
      },
-    "Networking (Neutron)":
+    "Networking service (Neutron)":
      {
         "status": "available"
      },
-    "Block Storage (Cinder)":
+    "Block Storage service (Cinder)":
      {
         "status": "available"
      },
-     "Telemetry (Ceilometer)":
+     "Telemetry service (Ceilometer)":
      {
         "status": "available"
      },
-     "Orchestration (Heat)":
+     "Orchestration service (Heat)":
      {
         "status": "available"
      },
-     "Database Service (Trove)":
+     "Database service (Trove)":
      {
         "status": "not available",
         "description": "The installation guide previously available was removed this release by the documentation team, and will likely stay that way until it can be improved to the level of the other projects."
      },
-     "Data processing (Sahara)":
+     "Data Processing service (Sahara)":
      {
         "status": "not available",
         "description": "The installation guide previously available was removed this release by the documentation team, and will likely stay that way until it can be improved to the level of the other projects."
      },
-     "Bare metal (Ironic)":
+     "Bare Metal service (Ironic)":
      {
         "status": "not available"
      },
-     "Queue service (Zaqar)":
+     "Messaging service (Zaqar)":
      {
         "status": "not available"
      },
-     "Key management (Barbican)":
+     "Key Management service (Barbican)":
      {
         "status": "not available"
      },
-     "DNS Services (Designate)":
+     "DNS service (Designate)":
      {
         "status": "not available"
      },
-     "Deployment (TripleO)":
+     "Deployment service (TripleO)":
      {
         "status": "not available"
      }
