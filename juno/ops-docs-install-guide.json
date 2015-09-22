@@ -1,0 +1,67 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "available"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "available"
+     },
+     "Image service (Glance)":
+     {
+        "status": "available"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "available"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "available"
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "available"
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "available"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "available"
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "available"
+     },
+     "Database service (Trove)":
+     {
+        "status": "not available",
+        "description": "The installation guide previously available was removed this release by the documentation team, and will likely stay that way until it can be improved to the level of the other projects."
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "not available",
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "not available"
+     },
+     "Messaging service (Zaqar)":
+     {
+        "status": "not available"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "not available"
+     },
+     "DNS service (Designate)":
+     {
+        "status": "not available"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "not available"
+     }
+}
