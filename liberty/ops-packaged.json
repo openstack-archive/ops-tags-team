@@ -1,0 +1,82 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "good"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "good"
+     },
+     "Image service (Glance)":
+     {
+        "status": "good"
+    },
+     "Identity service (Keystone)":
+     {
+        "status": "good"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "good",
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "warning",
+        "description": "RDO packages do not yet exist, and those in the testing repository will not allow VMs to boot. Ubuntu packages suffer from several bugs (https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502363 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502362 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502364 )
+        "caveats":
+        [{
+         "status": "no",
+         "label": "Vendor drivers not packaged",
+         "description": "Most network drivers (particularly non-open-source) are no longer packaged. Instead, they must be found from their repository on https://github.com/stackforge or https://github.com/openstack ."
+        }]
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "good"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "good",
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "good",
+        "caveats":
+        [{
+         "status": "warning",
+         "description": "Ubuntu packaging suffers from a bug: https://bugs.launchpad.net/ubuntu/+source/heat/+bug/1505444"
+        }]
+     },
+     "Database service (Trove)":
+     {
+        "status": "good"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "good"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "good"
+     },
+     "Message service (Zaqar)":
+     {
+        "status": "no"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "beginning"
+     },
+     "DNS services (Designate)":
+     {
+        "status": "good"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "no"
+     },
+     "Shared File Systems service (Manila)":
+     {
+        "status": "good"
+     }
+}
