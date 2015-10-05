@@ -1,0 +1,121 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Image service (Glance)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "available",
+        "caveats":
+        [{
+         "status": "not available",
+         "label": "Not available for RHEL, Fedora, CentOS",
+         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
+        }]
+     },
+     "Database service (Trove)":
+     {
+        "status": "not available"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "not available"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "not available"
+     },
+     "Messaging service (Zaqar)":
+     {
+        "status": "not available"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "not available"
+     },
+     "DNS service (Designate)":
+     {
+        "status": "not available"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "not available"
+     }
+}
