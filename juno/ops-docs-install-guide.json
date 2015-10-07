@@ -42,7 +42,7 @@
      },
      "Data Processing service (Sahara)":
      {
-        "status": "not available",
+        "status": "not available"
      },
      "Bare Metal service (Ironic)":
      {
