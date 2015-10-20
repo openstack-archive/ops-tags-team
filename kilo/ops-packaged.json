@@ -42,7 +42,7 @@
      },
      "Orchestration service (Heat)":
      {
-        "status": "good",
+        "status": "good"
      },
      "Database service (Trove)":
      {
