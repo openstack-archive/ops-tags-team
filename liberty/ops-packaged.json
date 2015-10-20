@@ -17,12 +17,12 @@
      },
      "Dashboard (Horizon)":
      {
-        "status": "good",
+        "status": "good"
      },
     "Networking service (Neutron)":
      {
         "status": "warning",
-        "description": "RDO packages do not yet exist, and those in the testing repository will not allow VMs to boot. Ubuntu packages suffer from several bugs (https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502363 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502362 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502364 )
+        "description": "RDO packages do not yet exist, and those in the testing repository will not allow VMs to boot. Ubuntu packages suffer from several bugs (https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502363 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502362 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502364 )",
         "caveats":
         [{
          "status": "no",
@@ -36,7 +36,7 @@
      },
      "Telemetry service (Ceilometer)":
      {
-        "status": "good",
+        "status": "good"
      },
      "Orchestration service (Heat)":
      {
