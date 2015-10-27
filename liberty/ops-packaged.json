@@ -21,13 +21,12 @@
      },
     "Networking service (Neutron)":
      {
-        "status": "warning",
-        "description": "RDO packages do not yet exist, and those in the testing repository will not allow VMs to boot. Ubuntu packages suffer from several bugs (https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502363 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502362 , https://bugs.launchpad.net/ubuntu/+source/neutron/+bug/1502364 )",
+        "status": "good",
         "caveats":
         [{
          "status": "no",
          "label": "Vendor drivers not packaged",
-         "description": "Most network drivers (particularly non-open-source) are no longer packaged. Instead, they must be found from their repository on https://github.com/stackforge or https://github.com/openstack ."
+         "description": "From this release, most network drivers (particularly non-open-source) are no longer packaged. Instead, they must be found from their repository on https://github.com/stackforge or https://github.com/openstack ."
         }]
      },
     "Block Storage service (Cinder)":
@@ -61,7 +60,7 @@
      },
      "Message service (Zaqar)":
      {
-        "status": "no"
+        "status": "good"
      },
      "Key Management service (Barbican)":
      {
