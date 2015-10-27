@@ -3,7 +3,7 @@ ops:packaged
 ========================================================================
 
 Provides information to operators regarding the existence and quality of
-packages for the project in distributions like Red Hat/Fedora, Ubuntu
+packages for the project in distributions like Red Hat/CentOS, Ubuntu
 and openSUSE/SLES.
 
 
