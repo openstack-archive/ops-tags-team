@@ -39,12 +39,7 @@
      },
      "Orchestration service (Heat)":
      {
-        "status": "good",
-        "caveats":
-        [{
-         "status": "warning",
-         "description": "Ubuntu packaging suffers from a bug: https://bugs.launchpad.net/ubuntu/+source/heat/+bug/1505444"
-        }]
+        "status": "good"
      },
      "Database service (Trove)":
      {
