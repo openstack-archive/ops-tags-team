@@ -1,94 +1,39 @@
 {
      "Compute service (Nova)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Object Storage service (Swift)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Image service (Glance)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
-
+        "status": "available"
      },
      "Identity service (Keystone)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Dashboard (Horizon)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
     "Networking service (Neutron)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
     "Block Storage service (Cinder)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Telemetry service (Ceilometer)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Orchestration service (Heat)":
      {
-        "status": "available",
-        "caveats":
-        [{
-         "status": "not available",
-         "label": "Not available for RHEL, Fedora, CentOS",
-         "description": "Due to the unavailability of RDO packages, no install guide is yet available for RHEL, Fedora or CentOS. http://lists.openstack.org/pipermail/openstack-docs/2015-October/007622.html"
-        }]
+        "status": "available"
      },
      "Database service (Trove)":
      {
