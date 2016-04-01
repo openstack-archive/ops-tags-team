@@ -1,0 +1,14 @@
+# This is a template that can be used for creating definitions for new tags.
+# The attributes and the values defined here will match those defined in the
+# corresponding descriptions/<tag_name>.rst file.
+#
+# Each tag should have a the following structure
+# {
+#   "<Product_Name>":
+#   {
+#    "attribute1": "value1",
+#    "attribute2": ["value2", "value3", "value4"]
+#   },
+# }
+#
+# All comment lines (marked with a '#') should be removed before submission.
