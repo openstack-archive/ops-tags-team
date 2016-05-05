@@ -1,83 +1,83 @@
 {
      "Compute service (Nova)":
      {
-        "status": "93%”
+        "status": "93%"
      },
      "Object Storage service (Swift)":
      {
-        "status": “52%”
+        "status": "52%"
      },
      "Image service (Glance)":
      {
-        "status": “87%”
+        "status": "87%"
      },
      "Identity service (Keystone)":
      {
-        "status": “88%”
+        "status": "88%"
      },
      "Dashboard (Horizon)":
      {
-        "status": “86%”
+        "status": "86%"
      },
     "Networking service (Neutron)":
      {
-        "status": "84%”
+        "status": "84%"
      },
     "Block Storage service (Cinder)":
      {
-        "status": "81%”
+        "status": "81%"
      },
      "Telemetry service (Ceilometer)":
      {
-        "status": “59%”
+        "status": "59%"
      },
      "Orchestration service (Heat)":
      {
-        "status": "64%”
+        "status": "64%"
      },
      "Database service (Trove)":
      {
-        "status": “17%”
+        "status": "17%"
      },
      "Data Processing service (Sahara)":
      {
-        "status": “11%”
+        "status": "11%"
      },
      "Bare Metal service (Ironic)":
      {
-        "status": “20%”
+        "status": "20%"
      },
      "Message service (Zaqar)":
      {
-        "status": “2%”
+        "status": "2%"
      },
      "Key Management service (Barbican)":
      {
-        "status": “2%”
+        "status": "2%"
      },
      "DNS service (Designate)":
      {
-        "status": “17%”
+        "status": "17%"
      },
      "Shared File Systems service (Manila)":
      {
-        "status": “11%”
+        "status": "11%"
      },
      "Benchmark service (Rally)":
      {
-        "status": “25%”
+        "status": "25%"
      },
      "Containers service (Magnum)":
      {
-        "status": “11%”
+        "status": "11%"
      },
      "Application Catalog service (Murano)":
      {
-        "status": “15%”
+        "status": "15%"
      },
      "Deployment service (TripleO)":
      {
-        "status": “6%”
+        "status": "6%"
      },
      "Governance service (Congress)":
      {
@@ -85,10 +85,10 @@
      },
      "Container-based deployment tools (Kolla)":
      {
-        "status": “3%”
+        "status": "3%"
      },
-     “Workflow service (Mistral)”:
+     "Workflow service (Mistral)":
      {
-        "status": “2%”
+        "status": "2%"
      }
 }
