@@ -43,8 +43,8 @@ Tag application process
   present for some time afterward. Reasonable efforts should be made to
   take this into account, with the focus always on providing the most
   information to the operator
-- the application of this tag follows the three-package-management-system
-  classification used by the documentation team (apt, yum, zypper) for their
+- the application of this tag follows the distro classifications used by the
+  documentation team (SUSE, RHEL/CentOS, Ubuntu) for their
   supported releases: the aim is a general guide to the existence of
   documentation - not an exhaustive distro-by-distro breakdown. Where there
   are differences between distributions or versions significant enough they
@@ -86,7 +86,7 @@ Attributes
 ==========
 
 - status    - the tag application status
-- bug_link  - URL(s) to major bugs afflicting a project's packages
+- bug_link  - URL(s) to major bugs afflicting a project's install
 - description - optional details regarding the tag application
 - caveats   - Any exceptions to the general status. Follows the same
               attributes as the general status, in addition to a 'label'
