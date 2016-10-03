@@ -1,0 +1,143 @@
+{
+     "Key Management service (Barbican)":
+     {
+        "status": "available"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "available"
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "available"
+     },
+     "Rating service (CloudKitty)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Governance service (Congress)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "DNS service (Designate)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Backup, Restore and Disaster Recovery service (Freezer)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Image service (Glance)":
+     {
+        "status": "available"
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "available"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "available"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "available"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "available"
+     },
+     "Data Protection Orchestration service (Kabor)":
+     {
+        "status": "not available",
+        "description": "No installation documentation available."
+     },
+     "Shared File Systems service (Manila)":
+     {
+        "status": "available"
+     },
+     "Container Infrastructure Management service (Magnum)":
+     {
+        "status": "available"
+     },
+     "Workflow service (Mistral)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Monitoring (Monasca)":
+     {
+        "status": "not available",
+        "description": "No installation documentation available."
+     },
+     "Application Catalog (Murano)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Networking service (Neutron)":
+     {
+        "status": "available"
+     },
+     "Compute service (Nova)":
+     {
+        "status": "available"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Clustering service (Senlin)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Search service (Searchlight)":
+     {
+        "status": "not available",
+        "description": "No installation documentation available."
+
+     },
+     "Software Development Lifecycle Automation service (Solum)":
+     {
+        "status": "not available",
+        "description": "No installation documentation available."
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "available"
+     },
+     "NFV Orchestration service (Tacker)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Database service (Trove)":
+     {
+        "status": "available"
+     },
+     "RCA (Root Cause Analysis) service (Vitrage)":
+     {
+        "status": "not available",
+        "description": "No installation documentation available."
+     },
+     "Infrastructure Optimization service (Watcher)":
+     {
+        "status": "not available",
+        "description": "Guides are only available for older releases and/or certain distributions."
+     },
+     "Messaging service (Zaqar)":
+     {
+        "status": "available"
+     }
+}
