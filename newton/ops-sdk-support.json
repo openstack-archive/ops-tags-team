@@ -1,15 +1,15 @@
 {
      "Compute service (Nova)":
      {
-        "status": "16"
+        "status": "17"
      },
      "Object Storage service (Swift)":
      {
-        "status": "17"
+        "status": "19"
      },
      "Image service (Glance)":
      {
-        "status": "8"
+        "status": "11"
      },
      "Identity service (Keystone)":
      {
@@ -20,11 +20,11 @@
      },
     "Networking service (Neutron)":
      {
-        "status": "10"
+        "status": "12"
      },
     "Block Storage service (Cinder)":
      {
-        "status": "11"
+        "status": "13"
      },
      "Telemetry service (Ceilometer)":
      {
@@ -36,11 +36,11 @@
      },
      "Database service (Trove)":
      {
-        "status": "4"
+        "status": "6"
      },
      "Data Processing service (Sahara)":
      {
-        "status": "2"
+        "status": "1"
      },
      "Bare Metal service (Ironic)":
      {
@@ -48,7 +48,7 @@
      },
      "Message service (Zaqar)":
      {
-        "status": "2"
+        "status": "4"
      },
      "Key Management service (Barbican)":
      {
@@ -56,6 +56,15 @@
      },
      "DNS service (Designate)":
      {
+        "status": "2"
+     },
+     "Application Catalog (Murano)":
+     {
+        "status": "1"
+     },
+     "Container Infrastructure Management service (Magnum)":
+     {
         "status": "1"
      }
+
 }
