@@ -1,0 +1,102 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "98%"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "47%"
+     },
+     "Image service (Glance)":
+     {
+        "status": "92%"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "92%"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "92%"
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "93%"
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "88%"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "62%"
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "66%"
+     },
+     "Database service (Trove)":
+     {
+        "status": "17%"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "11%"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "25%"
+     },
+     "Message service (Zaqar)":
+     {
+        "status": "2%"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "5%"
+     },
+     "DNS service (Designate)":
+     {
+        "status": "19%"
+     },
+     "Shared File Systems service (Manila)":
+     {
+        "status": "11%"
+     },
+     "Benchmark service (Rally)":
+     {
+        "status": "23%"
+     },
+     "Containers service (Magnum)":
+     {
+        "status": "13%"
+     },
+     "Application Catalog service (Murano)":
+     {
+        "status": "12%"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "7%"
+     },
+     "Governance service (Congress)":
+     {
+        "status": "2%"
+     },
+     "Container-based deployment tools (Kolla)":
+     {
+        "status": "7%"
+     },
+     "Workflow service (Mistral)":
+     {
+        "status": "2%"
+     },
+     "Message Broker service (Cue)":
+     {
+        "status": "2%"
+     },
+     "Software Dev Lifecycle Management service (Solum)":
+     {
+        "status": "1%"
+     }
+}
