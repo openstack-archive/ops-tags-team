@@ -1,0 +1,106 @@
+{
+     "Compute service (Nova)":
+     {
+        "status": "96%"
+     },
+     "Object Storage service (Swift)":
+     {
+        "status": "51%"
+     },
+     "Image service (Glance)":
+     {
+        "status": "94%"
+     },
+     "Identity service (Keystone)":
+     {
+        "status": "96%"
+     },
+     "Dashboard (Horizon)":
+     {
+        "status": "87%"
+     },
+    "Networking service (Neutron)":
+     {
+        "status": "93%"
+     },
+    "Block Storage service (Cinder)":
+     {
+        "status": "88%"
+     },
+     "Telemetry service (Ceilometer)":
+     {
+        "status": "56%"
+     },
+     "Orchestration service (Heat)":
+     {
+        "status": "67%"
+     },
+     "Database service (Trove)":
+     {
+        "status": "13%"
+     },
+     "Data Processing service (Sahara)":
+     {
+        "status": "10%"
+     },
+     "Bare Metal service (Ironic)":
+     {
+        "status": "20%"
+     },
+     "Message service (Zaqar)":
+     {
+        "status": "4%"
+     },
+     "Key Management service (Barbican)":
+     {
+        "status": "9%"
+     },
+     "DNS service (Designate)":
+     {
+        "status": "16%"
+     },
+     "Shared File Systems service (Manila)":
+     {
+        "status": "14%"
+     },
+     "Benchmark service (Rally)":
+     {
+        "status": "22%"
+     },
+     "Containers service (Magnum)":
+     {
+        "status": "11%"
+     },
+     "Application Catalog service (Murano)":
+     {
+        "status": "12%"
+     },
+     "Deployment service (TripleO)":
+     {
+        "status": "9%"
+     },
+     "Governance service (Congress)":
+     {
+        "status": "2%"
+     },
+     "Container-based deployment tools (Kolla)":
+     {
+        "status": "13%"
+     },
+     "Workflow service (Mistral)":
+     {
+        "status": "6%"
+     },
+     "Message Broker service (Cue)":
+     {
+        "status": "2%"
+     },
+     "Software Dev Lifecycle Management service (Solum)":
+     {
+        "status": "2%"
+     },
+     "Key-Value Store as a Service (Magnetodb)":
+     {
+        "status": "2%"
+     }
+}
