@@ -1,15 +1,15 @@
 {
      "Compute service (Nova)":
      {
-        "status": "96%"
+        "status": "95%"
      },
      "Object Storage service (Swift)":
      {
-        "status": "51%"
+        "status": "52%"
      },
      "Image service (Glance)":
      {
-        "status": "94%"
+        "status": "95%"
      },
      "Identity service (Keystone)":
      {
@@ -29,7 +29,7 @@
      },
      "Telemetry service (Ceilometer)":
      {
-        "status": "56%"
+        "status": "55%"
      },
      "Orchestration service (Heat)":
      {
@@ -45,7 +45,7 @@
      },
      "Bare Metal service (Ironic)":
      {
-        "status": "20%"
+        "status": "21%"
      },
      "Message service (Zaqar)":
      {
@@ -65,7 +65,7 @@
      },
      "Benchmark service (Rally)":
      {
-        "status": "22%"
+        "status": "23%"
      },
      "Containers service (Magnum)":
      {
@@ -73,7 +73,7 @@
      },
      "Application Catalog service (Murano)":
      {
-        "status": "12%"
+        "status": "11%"
      },
      "Deployment service (TripleO)":
      {
@@ -85,11 +85,11 @@
      },
      "Container-based deployment tools (Kolla)":
      {
-        "status": "13%"
+        "status": "12%"
      },
      "Workflow service (Mistral)":
      {
-        "status": "6%"
+        "status": "5%"
      },
      "Message Broker service (Cue)":
      {
