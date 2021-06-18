@@ -1,14 +1,10 @@
-Ops Tags Team
-=============
+This project is no longer maintained.
 
-The Ops Tags Team exists to define tags for ops, allowing users to make better
-decisions by providing useful information about OpenStack software projects.
+The contents of this repository are still available in the Git
+source code management system.  To see the contents of this
+repository before it reached its end of life, please check out the
+previous commit with "git checkout HEAD^1".
 
-Further information can be found at:
-https://wiki.openstack.org/wiki/Operations/Tags
-
-The team conducts its initial development of tags
-in a this repository using the OpenStack gerrit workflow
-( http://docs.openstack.org/infra/manual/developers.html )
-while the discussions around where they will eventually end up (both
-file-wise and display-wise) are conducted.
+For any further questions, please email
+openstack-discuss@lists.openstack.org or join #openstack-dev on
+OFTC.
